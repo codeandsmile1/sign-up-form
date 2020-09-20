@@ -119,3 +119,10 @@
     letter-spacing: 1px;
     font-weight: 200px;
 }
+
+.sign-up-form label { 
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
